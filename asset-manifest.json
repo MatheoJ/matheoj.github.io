@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.dbd78ca4.css",
-    "main.js": "/static/js/main.112d86bd.js",
+    "main.css": "/static/css/main.f0118b57.css",
+    "main.js": "/static/js/main.8b5f87ee.js",
     "static/media/Airwatcher.jpg": "/static/media/Airwatcher.fa1b5caea36c12f15330.jpg",
     "static/media/Pandemic.png": "/static/media/Pandemic.77c2829eec567affdbee.png",
     "static/media/tracker.png": "/static/media/tracker.59b4fa6dc712bc319ebb.png",
@@ -104,7 +104,9 @@
     "static/media/aq.svg": "/static/media/aq.2405e38d3ce9174eee60.svg",
     "static/media/gi.svg": "/static/media/gi.89adf2b0737e6987f658.svg",
     "static/media/nz.svg": "/static/media/nz.0dcf8cf746e1d65a4528.svg",
+    "static/media/SDL_logo.svg": "/static/media/SDL_logo.e09fff95c574a0da96d480a300696bdb.svg",
     "static/media/lb.svg": "/static/media/lb.ede59c1723abcf425c23.svg",
+    "static/media/Qt_logo_2016.svg": "/static/media/Qt_logo_2016.1391d4e5b86a6d14551fe04c6afd1295.svg",
     "static/media/mz.svg": "/static/media/mz.525b13720883d5b9fdd2.svg",
     "static/media/tw.svg": "/static/media/tw.39308d8769d9190bd1aa.svg",
     "static/media/cx.svg": "/static/media/cx.b7e461d75f0be7e9609d.svg",
@@ -284,11 +286,11 @@
     "static/media/pl.svg": "/static/media/pl.cd835d05865e496ff6b8.svg",
     "static/media/de.svg": "/static/media/de.6435bf24d148ca7248e7.svg",
     "static/media/bd.svg": "/static/media/bd.0ad8c443ef4d47ea0497.svg",
-    "main.dbd78ca4.css.map": "/static/css/main.dbd78ca4.css.map",
-    "main.112d86bd.js.map": "/static/js/main.112d86bd.js.map"
+    "main.f0118b57.css.map": "/static/css/main.f0118b57.css.map",
+    "main.8b5f87ee.js.map": "/static/js/main.8b5f87ee.js.map"
   },
   "entrypoints": [
-    "static/css/main.dbd78ca4.css",
-    "static/js/main.112d86bd.js"
+    "static/css/main.f0118b57.css",
+    "static/js/main.8b5f87ee.js"
   ]
 }
