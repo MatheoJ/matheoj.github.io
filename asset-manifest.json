@@ -1,18 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.f0118b57.css",
-    "main.js": "/static/js/main.8b5f87ee.js",
+    "main.css": "/static/css/main.47a57215.css",
+    "main.js": "/static/js/main.34805dd6.js",
     "static/media/Airwatcher.jpg": "/static/media/Airwatcher.fa1b5caea36c12f15330.jpg",
     "static/media/Pandemic.png": "/static/media/Pandemic.77c2829eec567affdbee.png",
+    "static/media/Infographie.png": "/static/media/Infographie.f0932cd886eb262b5af2.png",
+    "static/media/Perkastor.PNG": "/static/media/Perkastor.0726100b8f4588468721.PNG",
     "static/media/tracker.png": "/static/media/tracker.59b4fa6dc712bc319ebb.png",
-    "static/media/me-apropos.PNG": "/static/media/me-apropos.e0a1dfa792138dcfedb1.PNG",
     "static/media/demo.PNG": "/static/media/demo.224ec36bd51c056daff7.PNG",
-    "static/media/Resume_Mathéo_Joseph_2023.pdf": "/static/media/Resume_Mathéo_Joseph_2023.90583769bf69ed13a0ae.pdf",
-    "static/media/CV_Mathéo Joseph_2023.pdf": "/static/media/CV_Mathéo Joseph_2023.974d0a72cf97a23a8d2f.pdf",
+    "static/media/Scientif.PNG": "/static/media/Scientif.b70ee38cb7e3ce155b3e.PNG",
     "static/media/do.svg": "/static/media/do.3ecb625b75ec64be4376.svg",
+    "static/media/Deliverif.PNG": "/static/media/Deliverif.2bedb2954519a7fc0675.PNG",
     "static/media/p2i.PNG": "/static/media/p2i.bea721cb96564eee9dbc.PNG",
     "static/media/rs.svg": "/static/media/rs.9f00a7d8eafa6f593713.svg",
+    "static/media/IMG_20230713_175226.jpg": "/static/media/IMG_20230713_175226.38a18fe9a4a9d043ae7e.jpg",
     "static/media/bo.svg": "/static/media/bo.88ba0b0a7e48ec71eca8.svg",
+    "static/media/Plateformer2.JPG": "/static/media/Plateformer2.23b3cb2d730ce3168379.JPG",
+    "static/media/CV_Matheo_Joseph_2024.pdf": "/static/media/CV_Matheo_Joseph_2024.941a05dd5a9542ca44c5.pdf",
+    "static/media/Resume_Matheo_Joseph_2024.pdf": "/static/media/Resume_Matheo_Joseph_2024.bcc8d2346f38d0f8b867.pdf",
     "static/media/Reactif.png": "/static/media/Reactif.782d4f31154387f13ae5.png",
     "static/media/mx.svg": "/static/media/mx.a17b7ad9eaa85411a1e1.svg",
     "static/media/ea.svg": "/static/media/ea.f1e55aacdee7ad81f5da.svg",
@@ -21,8 +26,10 @@
     "static/media/va.svg": "/static/media/va.cf15a64943f6c7d24a2b.svg",
     "static/media/sv.svg": "/static/media/sv.2b995d455aa93dcba0cf.svg",
     "static/media/stage.jpg": "/static/media/stage.b971b4af65aece84150a.jpg",
+    "static/media/AI_JeuxVideo.JPG": "/static/media/AI_JeuxVideo.b9740eac7f90a5b821d2.JPG",
     "static/media/pe.svg": "/static/media/pe.38abe80e0cb9775bea8c.svg",
     "static/media/me.svg": "/static/media/me.0c03b01f0a036dd1e720.svg",
+    "static/media/PhysicsEngine.JPG": "/static/media/PhysicsEngine.97a33c77316f24495546.JPG",
     "static/media/Predictif2.jpg": "/static/media/Predictif2.a868b9d2dfdb21cc87c9.jpg",
     "static/media/ai.svg": "/static/media/ai.8eb1e0e559b7fb35fed9.svg",
     "static/media/bz.svg": "/static/media/bz.9e8153a1022c0f4282f8.svg",
@@ -103,8 +110,8 @@
     "static/media/cc.svg": "/static/media/cc.d20d3e0cf1bec347594d.svg",
     "static/media/aq.svg": "/static/media/aq.2405e38d3ce9174eee60.svg",
     "static/media/gi.svg": "/static/media/gi.89adf2b0737e6987f658.svg",
+    "static/media/SDL_logo.svg": "/static/media/SDL_logo.99ec8ad8730dccb77791c1449240c16f.svg",
     "static/media/nz.svg": "/static/media/nz.0dcf8cf746e1d65a4528.svg",
-    "static/media/SDL_logo.svg": "/static/media/SDL_logo.e09fff95c574a0da96d480a300696bdb.svg",
     "static/media/lb.svg": "/static/media/lb.ede59c1723abcf425c23.svg",
     "static/media/Qt_logo_2016.svg": "/static/media/Qt_logo_2016.1391d4e5b86a6d14551fe04c6afd1295.svg",
     "static/media/mz.svg": "/static/media/mz.525b13720883d5b9fdd2.svg",
@@ -286,11 +293,11 @@
     "static/media/pl.svg": "/static/media/pl.cd835d05865e496ff6b8.svg",
     "static/media/de.svg": "/static/media/de.6435bf24d148ca7248e7.svg",
     "static/media/bd.svg": "/static/media/bd.0ad8c443ef4d47ea0497.svg",
-    "main.f0118b57.css.map": "/static/css/main.f0118b57.css.map",
-    "main.8b5f87ee.js.map": "/static/js/main.8b5f87ee.js.map"
+    "main.47a57215.css.map": "/static/css/main.47a57215.css.map",
+    "main.34805dd6.js.map": "/static/js/main.34805dd6.js.map"
   },
   "entrypoints": [
-    "static/css/main.f0118b57.css",
-    "static/js/main.8b5f87ee.js"
+    "static/css/main.47a57215.css",
+    "static/js/main.34805dd6.js"
   ]
 }
