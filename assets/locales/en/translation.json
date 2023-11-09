@@ -65,6 +65,8 @@
     "Scientif_Text": "Development of a scientist search engine, based on the semantic web. The scientist pages display information extracted from DBpedia, with clickable links to pages presenting scientific concepts or awards also extracted from DBpedia.",
     "Perkastor": "Historical Anecdote Visualization Application on a Map",
     "Perkastor_Text": "Design and development of 'Perkastor', a collaborative website aimed at revisiting history through an interactive map. The project involved researching over 500,000 historical facts using the semantic web and Wikipedia scraping. Natural Language Processing (NLP) techniques were used for information extraction.",
+    "RayTracing": "Ray Tracing renderer",
+    "RayTracing_Text": "Creation of a Ray Tracing rendering engine, made with the help of the 'Raytracing' series by YouTuber The Cherno. This rendering engine can display spheres with different material types and generate the appropriate reflections and shadows. The project uses Walnut, a framework that simplifies the creation of applications using Dear ImGui.",
     "Contact me": "Contact me",
     "Phone": "Phone/Whatsapp",
     "SendMail": "Send a mail",

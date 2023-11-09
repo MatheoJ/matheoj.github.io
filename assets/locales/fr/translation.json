@@ -65,6 +65,8 @@
     "Scientif_Text": "Développement d'un moteur de recherche de scientifiques, basé sur le web sémantique. Les pages de scientifiques présentent des informations extraites de DBpedia, avec des liens cliquables vers des pages présentant des concepts scientifiques ou des récompenses eux aussi extraits de DBpedia.",
     "Perkastor": "Application de visualisation d'anecdotes historiques sur une carte",
     "Perkastor_Text": "Conception et développement de 'Perkastor', un site web collaboratif visant à revisiter l'histoire à travers une carte interactive. Le projet a impliqué la recherche de plus de 500 000 faits historiques en utilisant le Web sémantique et le scraping de Wikipédia. Mise en œuvre de techniques de traitement du langage naturel (NLP) pour l'extraction d'informations.",
+    "RayTracing": "Moteur de rendu par Ray Tracing",
+    "RayTracing_Text": "Réalisation d'un moteur de rendu par Ray Tracing, réalisé avec l'aide de la série 'Raytracing' du YouTuber The Cherno. Ce moteur de rendu permet d'afficher des sphères avec différents types de matériaux et de produire les reflets et ombres appropriés. Le projet utilise Walnut, un framework qui simplifie la création d'applications utilisant Dear ImGui.",
     "Contact me": "Contactez moi",
     "Phone": "Telephone/Whatsapp",
     "SendMail": "Envoyer un mail",
